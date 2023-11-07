@@ -1,2 +1,2 @@
 # Learning
-just for learning gitHub
+just for learning gitHub.
